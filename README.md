@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developing strong, scalable projects and mastering DSA to perform confidently in technical interviews.<br>I’m looking to collaborate on<br>High-impact projects, open source contributions, and teams focused on clean, efficient solutions.<br>I’m looking for help with<br>System design fundamentals, backend performance optimization, and industry best practices.<br>I’m currently learning<br>Advanced Java, DSA patterns, and software engineering principles used in real products.<br>
+Developing strong, scalable projects and mastering DSA to perform confidently in technical interviews.<br>I’m looking to collaborate on<br>High-impact projects, open source contributions, and teams focused on clean, efficient solutions.<br>Currently learning Advanced Java, DSA patterns, and software engineering principles used in real products.<br>
 
 
 ## 🌐 Socials:
